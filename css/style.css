@@ -1,0 +1,9 @@
+body { text-align: center; margin: 0; font-family: 'Roboto', sans-serif; }
+
+ul { list-style: none; }
+
+h2 { color: #0026ff; font-size: 25px; }
+
+p { font-size: 18px; }
+
+li:last-child, h1 { padding-bottom: 15px; }
